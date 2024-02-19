@@ -1,6 +1,6 @@
 # **COD - Camouflaged Object Detection**
 
-# WHAT IS COD ?? 
+## WHAT IS COD ?? 
 
 Camouflaged object detection (COD) is identifying camouflaged objects visually blended into the surrounding backgrounds.
 
