@@ -24,19 +24,21 @@ The YOLOv8 model is used for initial object detection and extract bounding box c
 Our system is designed with a primary focus on addressing camouflage challenges in military scenarios. It is finely tuned to detect targets even in intricate camouflage conditions, providing enhanced capabilities for military operations.
 
 ### Explore the Camouflage Dataset:
-For detailed insights into our manual dataset creation and its integration into the model, please refer to our Camouflage Dataset [![YOLO](yolo.jpg)](https://universe.roboflow.com/sih-clucx/camoflauge-object-detction). This dataset serves as a crucial foundation for training and fine-tuning the model.
+For detailed insights into our manual dataset creation and its integration into the model, please refer to our Camouflage Dataset [![YOLO](yolo.jpg)](https://universe.roboflow.com/sih-clucx/camoflauge-object-detction) . This dataset serves as a crucial foundation for training and fine-tuning the model.
 
-### cite us:
+### Cite Us
+
+```bibtex
 @misc{
-                            camoflauge-object-detction_dataset,
-                            title = { Camoflauge Object Detction Dataset },
-                            type = { Open Source Dataset },
-                            author = { SIH },
-                            howpublished = { \url{ https://universe.roboflow.com/sih-clucx/camoflauge-object-detction } },
-                            url = { https://universe.roboflow.com/sih-clucx/camoflauge-object-detction },
-                            journal = { Roboflow Universe },
-                            publisher = { Roboflow },
-                            year = { 2023 },
-                            month = { sep },
-                            note = { visited on 2024-02-19 },
-                            }
+    camoflauge-object-detction_dataset,
+    title = {Camouflage Object Detection Dataset},
+    type = {Open Source Dataset},
+    author = {SIH},
+    howpublished = {\url{https://universe.roboflow.com/sih-clucx/camoflauge-object-detction}},
+    url = {https://universe.roboflow.com/sih-clucx/camoflauge-object-detction},
+    journal = {Roboflow Universe},
+    publisher = {Roboflow},
+    year = {2023},
+    month = {Sep},
+    note = {Visited on 2024-02-19},
+}
