@@ -4,7 +4,7 @@
 
 Camouflaged object detection (COD) is identifying camouflaged objects visually blended into the surrounding backgrounds.
 
-<img src="normal_human_detection.png" alt="Image 1" width="300" height="300"/> <img src="frame_14000.png" alt="Image 2" width="300" />
+<img src="normal_human_detection1.png" alt="Image 1" width="300"/> <img src="frame_14000.png" alt="Image 2" width="300" />
 
 The code (train.ipynb) trains a YOLOv8 object detection model on a Roboflow dataset, specifying training parameters. It evaluates the model's performance with a confusion matrix, results summary, and a prediction image. The trained model is then used for validation set detection, and predictions are saved. The best-performing model, represented by "best.pt," is provided in the link for deployment.
 
