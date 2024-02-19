@@ -1,6 +1,10 @@
 # COD
 
-Camouflaged object detection (COD) aims to address the tough issue of identifying camouflaged objects visually blended into the surrounding backgrounds.
+# WHAT IS COD ?? 
+
+Camouflaged object detection (COD) is identifying camouflaged objects visually blended into the surrounding backgrounds.
+
+![Image](frame_14000.png)
 
 The code (train.ipynb) trains a YOLOv8 object detection model on a Roboflow dataset, specifying training parameters. It evaluates the model's performance with a confusion matrix, results summary, and a prediction image. The trained model is then used for validation set detection, and predictions are saved. The best-performing model, represented by "best.pt," is provided in the link for deployment.
 
