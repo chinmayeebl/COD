@@ -4,8 +4,6 @@
 
 Camouflaged object detection (COD) is identifying camouflaged objects visually blended into the surrounding backgrounds.
 
----
-
 <p align="center">
   <img src="normal_human_detection1.png" alt="Image 1" width="300"/>
   <img src="frame_14000.png" alt="Image 2" width="300"/>
