@@ -9,3 +9,18 @@ Our system is designed with a primary focus on addressing camouflage challenges 
 
 ### Explore the Camouflage Dataset:
 For detailed insights into our manual dataset creation and its integration into the model, please refer to our Camouflage Dataset (https://universe.roboflow.com/sih-clucx/camoflauge-object-detction). This dataset serves as a crucial foundation for training and fine-tuning the model.
+
+### cite us:
+@misc{
+                            camoflauge-object-detction_dataset,
+                            title = { Camoflauge Object Detction Dataset },
+                            type = { Open Source Dataset },
+                            author = { SIH },
+                            howpublished = { \url{ https://universe.roboflow.com/sih-clucx/camoflauge-object-detction } },
+                            url = { https://universe.roboflow.com/sih-clucx/camoflauge-object-detction },
+                            journal = { Roboflow Universe },
+                            publisher = { Roboflow },
+                            year = { 2023 },
+                            month = { sep },
+                            note = { visited on 2024-02-19 },
+                            }
