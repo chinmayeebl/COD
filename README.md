@@ -31,7 +31,7 @@ Our system is designed with a primary focus on addressing camouflage challenges 
 ### **Explore the Dataset**
 For detailed insights into our manual dataset creation and its integration into the model, please refer to our Camouflage Dataset. This dataset serves as a crucial foundation for training and fine-tuning the model.
 
-*to acces the dataset click here:* [![YOLO](yolo.jpg)](https://universe.roboflow.com/sih-clucx/camoflauge-object-detction) 
+*To acces the dataset click here:* [![YOLO](yolo.jpg)](https://universe.roboflow.com/sih-clucx/camoflauge-object-detction) 
 ---
 
 ### **Cite Us**
