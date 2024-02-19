@@ -1,5 +1,7 @@
 # COD
 
+Camouflaged object detection (COD) aims to address the tough issue of identifying camouflaged objects visually blended into the surrounding backgrounds.
+
 The code (train.ipynb) trains a YOLOv8 object detection model on a Roboflow dataset, specifying training parameters. It evaluates the model's performance with a confusion matrix, results summary, and a prediction image. The trained model is then used for validation set detection, and predictions are saved. The best-performing model, represented by "best.pt," is provided in the link for deployment.
 
 The YOLOv8 model is used for initial object detection and extract bounding box coordinates. The CamShift algorithm is used to establish and maintain tracking of the detected objects across frames, presenting the results in real-time visualization (tracker2.py).  This model is designed to perform well in challenging conditions, especially when targets are partially hidden, ensuring reliable results in real-world operational settings.
