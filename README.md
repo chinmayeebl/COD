@@ -1,6 +1,6 @@
 # COD
 
-Introducing a system that uses YOLOv8 for accurate target detection and incorporates a Kalman filter for motion tracking. This model is designed to perform well in challenging conditions, especially when targets are partially hidden, ensuring reliable results in real-world operational settings.
+ The YOLOv8 model is used for initial object detection and extract bounding box coordinates. The CamShift algorithm is used to establish and maintain tracking of the detected objects across frames, presenting the results in real-time visualization.  This model is designed to perform well in challenging conditions, especially when targets are partially hidden, ensuring reliable results in real-world operational settings.
 
 ## Tailored for Camouflage Conditions:
 Our system is designed with a primary focus on addressing camouflage challenges in military scenarios. It is finely tuned to detect targets even in intricate camouflage conditions, providing enhanced capabilities for military operations.
